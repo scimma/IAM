@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: SCiMMA Institute Identity and Access Management
-is_project_page: false
+github:
+  is_project_page: false
