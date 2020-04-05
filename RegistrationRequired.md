@@ -1,4 +1,4 @@
-### SCiMMA Institute Service Access
+### SCiMMA Institute Restricted Access
 You have tried to access a service that is only permitted to registered user of the 
 Scalable Cyberinfrastructure for Multi-Messenger (SCiMMA) Institute members. 
 
