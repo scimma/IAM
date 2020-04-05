@@ -6,5 +6,5 @@ You will be required to login before proceeding. Please look for your University
 |[![Columbia Logo](./images/columbia.jpeg)](https://tmp.org)|[![Cornell Logo](./images/cornell.png)](https://tmp.org)|
 |[![Las Cumbres Logo](./images/LasCumbres.jpeg)<br>Las Cumbres Observatory](https://tmp.org)|[![MSU Logo](./images/msu-wordmark-green.png)](https://tmp.org)|
 |[![PSU Logo](./images/psu.png)](https://tmp.org)|[![UT Austin Logo](./images/UTAustin.png)](https://tmp.org)|
-|[![UCSB Logo](./images/UCSB.png)](https://tmp.org)|[![UIUC Logo](./images/UIUC.png)](https://tmp.org)|
+|<br>[![UCSB Logo](./images/UCSB.png)](https://tmp.org)<br>|<br>[![UIUC Logo](./images/UIUC.png)](https://tmp.org)<br>|
 |[![UWash Logo](./images/UWashington.png)](https://tmp.org)|[![UWM Logo](./images/uwm.png)](https://registry.scimma.org/registry/co_petitions/start/coef:29)|
