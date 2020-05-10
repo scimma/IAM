@@ -1,4 +1,4 @@
-###SCiMMA Community Enrollment Verified
+### SCiMMA Community Enrollment Verified
 
 You have successfully verified the information for your SCiMMA Institute enrollment and your enrollment is now complete.
 
