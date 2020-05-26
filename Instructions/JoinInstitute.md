@@ -27,6 +27,13 @@ the one you have selected for research, you can click it, otherwise please leave
 "Log On" button at the bottom of the page. 
 ![CILogonLoginLogOnImage](./JoinInstituteImages/CILogonLoginWindow_LogOn.png)
 You can click that to login to your login server. Enter the username and password you would normally use for the page 
-you arrive at, and do whatever else (e.g. Duo authentication) you need to do to login. Once you are done, you will 
-arrive at a form like the one shown below.
+you arrive at, and do whatever else (e.g. Duo authentication) you need to do to login. Once you are done, you will be 
+logged in and will see a page like this (but appropriate for the organization whose logo you first clicked to start 
+the enrollment process).
 ![SCiMMAInstituteEnrollBeginImage](./JoinInstituteImages/scimmaInstituteEnrollBegin.png)
+Clicking begin will launch the enrollment and you may see some messages about various processes being automatically 
+completed. After a few seconds, you should arrive at a page like the following
+![SCiMMAInstituteEnrollFormImage](./JoinInstituteImages/scimmaInstituteEnrollForm.png)
+Your name and email address will be filled in with information that we got when you logged in. You may change any part of
+it. Note that the email address must be valid or you will not be able to complete the enrollment. Also, your name will 
+appear in various contexts, so if you have a name preference (e.g. Jim vs James), you can adjust it here.
