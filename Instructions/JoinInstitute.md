@@ -8,7 +8,7 @@ to enroll, please contact your supervisor at your organization.
 
 Enrolling is mostly self-explanatory, but if you have any questions or concerns, there are detailed instructions below.
 
-#### Step 1 - Begin Enrollment
+#### Step 1 - Logging in
 To start your enrollment request, please click <a href="https://scimma.github.io/IAM/" target="_blank">here</a> and 
 click on the logo of your organization (university or observatory). You will see an page like the one below, asking 
 you to login.
@@ -29,9 +29,11 @@ the one you have selected for research, you can click it, otherwise please leave
 "Log On" button at the bottom of the page. 
 ![CILogonLoginLogOnImage](./JoinInstituteImages/CILogonLoginWindow_LogOn.png)
 You can click that to login to your login server. Enter the username and password you would normally use for the page 
-you arrive at, and do whatever else (e.g. Duo authentication) you need to do to login. Once you are done, you will be 
-logged in and will see a page like this (but appropriate for the organization whose logo you first clicked to start 
-the enrollment process).
+you arrive at, and do whatever else (e.g. Duo authentication) you need to do to login. 
+
+#### Enrolling
+Once you are logged in and will see a page like this (but appropriate for the organization whose logo you first 
+clicked to start the enrollment process).
 ![SCiMMAInstituteEnrollBeginImage](./JoinInstituteImages/scimmaInstituteEnrollBegin.png)
 Clicking begin will launch the enrollment and you may see some messages about various processes being automatically 
 completed. After a few seconds, you should arrive at a page like the following
@@ -39,3 +41,15 @@ completed. After a few seconds, you should arrive at a page like the following
 Your name and email address will be filled in with information that we got when you logged in. You may change any part of
 it. Note that the email address must be valid or you will not be able to complete the enrollment. Also, your name will 
 appear in various contexts, so if you have a name preference (e.g. Jim vs James), you can adjust it here.
+
+#### Confirming your email address
+Once you have submitted your enrollment, you will receive an email from the system asking you to confirm your email 
+address. The email will have the subject "SCiMMA Institute: Please verify your email" and will be from 
+registry@cilogon.org. You just need to click on the link to confirm. When you do, you will be taken to a page where 
+you might see some more processing messages, and then to a landing page that with information about what happens next. 
+is the end of your enrollment process.
+
+#### When your enrollment is confirmed
+When your enrollment has been approved by a manager for your organization, you will receive an email with the subject 
+"SCiMMA Institute: registration approved" from registry@cilogon.org. Follow the instructions in the email to clear 
+your browser of the unapproved account information and take advantage of the feature in COmanage.
