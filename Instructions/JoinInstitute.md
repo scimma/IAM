@@ -7,7 +7,7 @@ process and who will be able to approve your enrollment request. If you are unsu
 to enroll, please contact your supervisor at your organization.
 
 #### Step 1 - Begin Enrollment
-To start your enrollment request, please click <a href="https://scimma.github.io/IAM/" target=_blank>here</a> and 
+To start your enrollment request, please click <a href="https://scimma.github.io/IAM/" target="_blank">here</a> and 
 click on the logo of your organization (university or observatory). You will see an page like the one below, but with 
 differences to reflect your organization.
 ![JoinInstituteBeginImage](./JoinInstituteImages/JoinInstituteBegin.png)
