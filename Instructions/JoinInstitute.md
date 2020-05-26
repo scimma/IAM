@@ -17,8 +17,7 @@ If you click on it, it will show you all the login servers available to login, b
 you can type in the name of the login server you want to use. The best option for most people is the organization through
 which they are joining the SCiMMA Institute. Type the name of your organization into the text box and it will show you 
 the login servers that most closely match your text. If your organization is not listed, then you cannot use its login 
-server to login here. The next best option for most researchers is their  
-<a href="https://orcid.org" target="_blank">ORCID</a>. You may already have an ORCID. If not, you can create one. For 
+server to login here. The next best option for most researchers is their <a href="https://orcid.org" target="_blank">ORCID</a>. You may already have an ORCID. If not, you can create one. For 
 those who have no other option, we also support the deafault "Google" option, for which you can use a gmail login. 
 Below the login server selection menu is the "Remember this selection" button. 
 ![CILogonLoginRememberImage](./JoinInstituteImages/CILogonLoginWindow_remember.png)
