@@ -6,6 +6,8 @@ Each organization that is participating will have a manager who will receive an 
 process and who will be able to approve your enrollment request. If you are unsure about whether you are eligible 
 to enroll, please contact your supervisor at your organization.
 
+Enrolling is mostly self-explanatory, but if you have any questions or concerns, there are detailed instructions below.
+
 #### Step 1 - Begin Enrollment
 To start your enrollment request, please click <a href="https://scimma.github.io/IAM/" target="_blank">here</a> and 
 click on the logo of your organization (university or observatory). You will see an page like the one below, asking 
