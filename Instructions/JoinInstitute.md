@@ -29,3 +29,4 @@ the one you have selected for research, you can click it, otherwise please leave
 You can click that to login to your login server. Enter the username and password you would normally use for the page 
 you arrive at, and do whatever else (e.g. Duo authentication) you need to do to login. Once you are done, you will 
 arrive at a form like the one shown below.
+![SCiMMAInstituteEnrollBeginImage](./JoinInstituteImages/scimmaInstituteEnrollBegin.png)
