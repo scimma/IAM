@@ -10,4 +10,4 @@ to enroll, please contact your supervisor at your organization.
 To start your enrollment request, please click <a href="https://scimma.github.io/IAM/" target=_blank>here</a> and 
 click on the logo of your organization (university or observatory). You will see an page like the one below, but with 
 differences to reflect your organization.
-![JoinInstituteBeginImage](https://github.com/scimma/instructions/JoinInstituteImages/JoinInstituteBegin.png)
+![JoinInstituteBeginImage](./JoinInstituteImages/JoinInstituteBegin.png)
