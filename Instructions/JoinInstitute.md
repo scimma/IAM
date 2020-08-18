@@ -49,7 +49,7 @@ registry@cilogon.org. You just need to click on the link to confirm. When you do
 you might see some more processing messages, and then to a landing page that with information about what happens next. 
 is the end of your enrollment process.
 
-#### When your enrollment is confirmed
+#### When your enrollment is approved
 When your enrollment has been approved by a manager for your organization, you will receive an email with the subject 
 "SCiMMA Institute: registration approved" from registry@cilogon.org. Follow the instructions in the email to clear 
 your browser of the unapproved account information and take advantage of the feature in COmanage.
