@@ -8,4 +8,4 @@ You will be required to login before proceeding. Please look for your University
 |[![PSU Logo](./images/psu.png)](https://registry.scimma.org/registry/co_petitions/start/coef:48)|[![UCSB Logo](./images/UCSB.png)](https://registry.scimma.org/registry/co_petitions/start/coef:54)|
 |[![UIUC Logo](./images/UIUC.png)](https://registry.scimma.org/registry/co_petitions/start/coef:57)|[![UT Austin Logo](./images/UTAustin.png)](https://registry.scimma.org/registry/co_petitions/start/coef:51)|
 |[![UWash Logo](./images/UWashington.png)](https://registry.scimma.org/registry/co_petitions/start/coef:59)|[![UWM Logo](./images/uwm.png)](https://registry.scimma.org/registry/co_petitions/start/coef:29)|
-|[![SNEWS Logo](./images/new_snews_logo.jpg)](https://registry.scimma.org/registry/co_petitions/start/coef:117)||
+|[![SNEWS Logo](./images/snews_logo.png)](https://registry.scimma.org/registry/co_petitions/start/coef:117)||
